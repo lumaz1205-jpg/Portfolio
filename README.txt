@@ -1,8 +1,11 @@
-PORTFÓLIO — GABRIEL MORAIS
+PORTFÓLIO — GABRIEL MORAIS | V2
 
-1. Abra index.html no navegador para testar.
-2. Edite o e-mail e os links de redes sociais em index.html.
-3. Troque os textos dos projetos pelos seus trabalhos.
-4. Para publicar, envie index.html, style.css e script.js para uma hospedagem estática.
+Pronto para GitHub Pages.
 
-O site é responsivo e não depende de backend.
+UPLOAD:
+1. Envie index.html, style.css e script.js para a RAIZ do seu repositório.
+2. Substitua os arquivos antigos.
+3. Commit changes.
+4. Em Settings > Pages, use main / (root).
+
+OBS.: as fotos da galeria do Glas Park são carregadas do site glaspark.com.br. O restante do portfólio funciona sem arquivos adicionais.
